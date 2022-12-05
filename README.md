@@ -18,7 +18,7 @@ Ashmit Yadav:
 
 - 📫 How to reach me <b>beingashmit@gmail.com</b>
 
-- 📄 Check out my <b><a href="https://drive.google.com/file/d/1PIfe_XFjBqslArfNUrG9b0YTv5vfv4fX/view?usp=sharing" target="_blank">RESUME</a></b>
+- 📄 Check out my <b><a href="https://drive.google.com/file/d/16STBMfY5UT3_F8LBZqOGP9qaTu17VQN3/view?usp=share_link" target="_blank">RESUME</a></b>
  
 - ⚡️ Fun fact - I am a creative person and I love My Country !
 

@@ -1,6 +1,6 @@
  
 
-<h1 align="center">Hi 👋, I'm Shagun Sharma</h1>
+<h1 align="center">Hi 👋, I'm Ashmit Yadav</h1>
 <h3 align="center">A passionate 
   Full stack web developer 🖥</h3>
 
@@ -13,7 +13,7 @@
 
 <!--  - 👨‍💻 Resume & All of my projects are available at  <a href="https://bright-melba-7b0c28.netlify.app/">Click Me</a>   -->
 
-- 📫 How to reach me **shagun08081999@gmail.com**
+- 📫 How to reach me **beingashmit@gmail.com**
 
 - ⚡ "If you don’t risk anything, you risk even more".**
 
@@ -22,22 +22,22 @@
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
  
- <a href="https://drive.google.com/file/d/1PBY-d_VQ7YYMDsZfWo6_8qfhQGVcui1I/view?usp=sharing">
+ <a href="https://drive.google.com/file/d/138ETL8CwKA0GKHnvJp7ZOk7Dt0rOBq4B/view?usp=share_link">
     <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  <a href="https://linkedin.com/in/shagun-sharm">
-    <img src="https://img.shields.io/badge/Shagun Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/ashmit-yadav-588192228/">
+    <img src="https://img.shields.io/badge/Ashmit Yadav-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- <a href="https://shagun0061.github.io/">
+ <a href="https://ashmit-1131.github.io/">
     <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
   </a>
-  <a href="mailto:shagun08081999@gmail.com">
-    <img src="https://img.shields.io/badge/Shagun Sharma-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="mailto:beingashmit@gmail.com">
+    <img src="https://img.shields.io/badge/Ashmit Yadav-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
 </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=shagun0061&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-jadhav" /> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=ashmit-1131&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-jadhav" /> </div>
 <h1></h1>
 
  

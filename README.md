@@ -87,6 +87,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=ashmit-1131&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashmit-1131&theme=radical)
   
-
+  <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 

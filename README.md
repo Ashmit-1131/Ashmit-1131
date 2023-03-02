@@ -4,7 +4,7 @@
 <h3 align="center">A passionate 
   Full stack web developer 🖥</h3>
 
-<p><img align="center" src="https://www.digitalsolutionservices.com/img/services/website1.gif" /></p>
+<p><img align="center" src="http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" /></p>
 
 
 

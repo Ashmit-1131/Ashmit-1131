@@ -37,7 +37,7 @@
   </a>
  
 </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=ashmit-1131&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-jadhav" /> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=ashmit-1131&label=Profile%20views&color=0e75b6&style=flat" alt="ashmit-yadav" /> </div>
 <h1></h1>
 
  

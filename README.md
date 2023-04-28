@@ -22,7 +22,7 @@
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
  
- <a href="https://drive.google.com/file/d/138ETL8CwKA0GKHnvJp7ZOk7Dt0rOBq4B/view?usp=share_link">
+ <a href="https://drive.google.com/file/d/1giMIqhzTMpIwHhyw1a8erKHpxeRfOuZr/view?usp=share_link">
     <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
   </a>
   
